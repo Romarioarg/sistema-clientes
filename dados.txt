@@ -1,0 +1,11 @@
+Cliente: Romario, Email: arg.dev.java@gmail.com, Telefone: 11 995400311
+Cliente: romario, Email: @gmail.com, Telefone: 11 99540
+Cliente: romario, Email: @gmail.com, Telefone: 11 uiajiwdja
+Cliente: romario, Email: @gmail.com, Telefone: 55587
+Cliente: romario, Email: @gmail.com, Telefone: 111wadad
+Cliente: wadawda, Email: awdawda, Telefone: wdawda
+Cliente: romarinhoshow, Email: @lindo..com.br, Telefone: 7264140
+Cliente: Romario, Email: romario@email.com, Telefone: (11) 90000-0000
+Cliente: Romario, Email: romario@email.com, Telefone: (11) 90000-0000
+Cliente: Romario, Email: romario@email.com, Telefone: (11) 90000-0000
+Cliente: Romario, Email: romario@email.com, Telefone: (11) 90000-0000
